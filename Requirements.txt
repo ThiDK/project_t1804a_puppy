@@ -1,0 +1,8 @@
+1)	The name of the website and its motto must be mentioned in the home page.
+2)	The entire navigational link must be mentioned in the home page, using of Crum navigational link wherever necessary.
+3)	Different types of puppies and dogs must be mentioned in the website.
+4)	Sorted by different types of categories like country, type.
+5)	For each animal, certain behavior must be added.
+6)	Images collection must be added in the gallery section.
+7)	Extra links like food, nutrition tips for the dogs and so on.
+8)	Query link must be added to ask the questions.
